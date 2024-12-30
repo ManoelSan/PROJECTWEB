@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wFDz5G1aBw8=",
+  "dgSpecHash": "qkawO2OiV4g9xtu2q/sACr4/tqRnqkG6mlJEtpM5IRGVeYHMDoqSexnTs3q7umiRhh3dcKhL329elkGl5Htozw==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\PROJECTWEB\\Back\\src\\ProjectWeb.API\\ProjectWeb.API.csproj",
   "expectedPackageFiles": [
@@ -9,8 +9,7 @@
     "C:\\Users\\Neo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\Neo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\Neo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\Neo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
-    "C:\\Users\\Neo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\Neo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }
