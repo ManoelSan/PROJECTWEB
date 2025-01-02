@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using ProjectWeb.API.Models;
 
 namespace ProjectWeb.API.Controllers
 {
@@ -16,9 +18,18 @@ namespace ProjectWeb.API.Controllers
         }
         
         [HttpGet]
-        public string Get()
+        public Evento Get()
         {
-            return "Exemplo de Get";
+            return new Evento(){
+                EventoId = 1,
+                Tema = "Angular 11 e .Net 5 Core",
+                Local = "Belo Horizonte",
+                Lote = "1º Lote",
+                QtdPessoas = 250,
+                DataEvento = DateTime.Now.AddDays(2).ToString(),
+                ImagemURL = "foto.png"
+
+            };
         }
 
         [HttpPost]

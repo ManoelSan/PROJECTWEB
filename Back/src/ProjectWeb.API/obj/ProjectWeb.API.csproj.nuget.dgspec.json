@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\PROJECTWEB\\back\\src\\ProjectWeb.API\\ProjectWeb.API.csproj": {}
+    "C:\\Workspace\\PROJECTWEB\\Back\\src\\ProjectWeb.API\\ProjectWeb.API.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\PROJECTWEB\\back\\src\\ProjectWeb.API\\ProjectWeb.API.csproj": {
+    "C:\\Workspace\\PROJECTWEB\\Back\\src\\ProjectWeb.API\\ProjectWeb.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\PROJECTWEB\\back\\src\\ProjectWeb.API\\ProjectWeb.API.csproj",
+        "projectUniqueName": "C:\\Workspace\\PROJECTWEB\\Back\\src\\ProjectWeb.API\\ProjectWeb.API.csproj",
         "projectName": "ProjectWeb.API",
-        "projectPath": "C:\\Workspace\\PROJECTWEB\\back\\src\\ProjectWeb.API\\ProjectWeb.API.csproj",
+        "projectPath": "C:\\Workspace\\PROJECTWEB\\Back\\src\\ProjectWeb.API\\ProjectWeb.API.csproj",
         "packagesPath": "C:\\Users\\Neo\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\PROJECTWEB\\back\\src\\ProjectWeb.API\\obj\\",
+        "outputPath": "C:\\Workspace\\PROJECTWEB\\Back\\src\\ProjectWeb.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
