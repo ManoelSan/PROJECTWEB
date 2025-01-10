@@ -1,3 +1,6 @@
+// DEUS É O SENHOR
+// JESUS ESTÁ VOLTANDO!!!
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
