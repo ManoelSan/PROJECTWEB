@@ -35,6 +35,7 @@ namespace ProjectWeb.API
                 context => context.UseSqlite(Configuration.GetConnectionString("Default"))//Configuração do banco de Dados
             );
             services.AddControllers();
+            services.AddCors();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ProjectWeb.API", Version = "v1" });
@@ -56,6 +57,8 @@ namespace ProjectWeb.API
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
 
             app.UseEndpoints(endpoints =>
             {
