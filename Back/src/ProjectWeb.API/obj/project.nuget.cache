@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ov6BtWQNfXA=",
+  "dgSpecHash": "Zt/avTj77a2T7GrclQBgRMCqDQNlH6tpZEWrZFOdObZw5BG8I7rIFpeu0e54qdFrBnMzs5zOCtqQFWzB/3cJhw==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\PROJECTWEB\\Back\\src\\ProjectWeb.API\\ProjectWeb.API.csproj",
+  "projectFilePath": "C:\\Workspace\\PROJECTWEB\\PROJECTWEB\\Back\\src\\ProjectWeb.API\\ProjectWeb.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Neo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Neo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -90,8 +90,7 @@
     "C:\\Users\\Neo\\.nuget\\packages\\system.threading.tasks.extensions\\4.3.0\\system.threading.tasks.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\Neo\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Neo\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Neo\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Neo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\Neo\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,5 +1,3 @@
-//Seletor do componente: 'app-palestrantes'
-
 import { Component, OnInit } from '@angular/core';
 
 @Component({

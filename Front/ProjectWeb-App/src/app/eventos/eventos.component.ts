@@ -1,31 +1,29 @@
-//Seletor do componente: 'app-eventos'
-
 import { HttpClient } from '@angular/common/http';
-import { Component, OnInit } from '@angular/core';
-import { Local } from 'protractor/built/driverProviders';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-eventos',
   templateUrl: './eventos.component.html',
   styleUrls: ['./eventos.component.scss']
 })
-export class EventosComponent implements OnInit {
-
+export class EventosComponent {
 
   public eventos: any;
-  constructor(private http: HttpClient) { }
+
+  constructor( private http: HttpClient) { }
 
   ngOnInit(): void {
-this.getEventos();
-
+    this.getEventos();
   }
 
-  public getEventos(): void{
+  public getEventos(): void {
+
     this.http.get('https://localhost:5001/api/eventos').subscribe(
       response => this.eventos = response,
-      error => console.log(error)
-    );
+      console => console.log(console)
 
+
+    );
   }
 
 }
